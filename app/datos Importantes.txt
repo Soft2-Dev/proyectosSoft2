@@ -1,0 +1,9 @@
+********** datos importantes **************
+
+base de datos:  descalic_pido
+usuario:	descalic_pido
+contraseña:	]US1s[9#,Z(3
+
+
+https://des-cali.com/pido/webService.php?case=1
+
